@@ -1,0 +1,38 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#include "BoxCollider.h"
+#include "Map.h"
+#include "Player.h"
+#include<vector>
+
+class Monster {
+public:
+	~Monster();
+	Monster(Map* map, std::vector<Monster*>* other_monsters, Player* player);
+	void draw(sf::RenderWindow& window);
+	void update(float dt);
+	void setPosition(sf::Vector2f& position);
+	
+
+private:
+	float reload_time = 1.0f;
+	float timer = reload_time;
+
+	float speed = 60.0f;
+	BoxCollider* collider = nullptr;
+	Map* map = nullptr;
+	Player* player = nullptr;
+	std::vector<Monster*>* monsters;
+	sf::Vector2f position;
+	sf::Vector2i direction;
+	float size = 16;
+
+	sf::Sprite anim;
+	sf::Texture t;
+	int sprite_width = 32;
+	int sprite_height = 32;
+
+	int animRow = 0;
+	int animFrames = 0;
+	float currentFrame = 0;
+};

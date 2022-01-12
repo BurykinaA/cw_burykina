@@ -1,0 +1,117 @@
+﻿  Bomb.cpp
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(29,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(29,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(32,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(32,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(73,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(73,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(74,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(74,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(75,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(75,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(76,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(76,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(77,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Bomb.cpp(77,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  KursachN.cpp
+  Map.cpp
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(29,18): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(30,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(31,18): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(32,17): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(103,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(103,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(104,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(104,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(109,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(109,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(115,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(115,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(121,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(121,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(126,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(126,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(128,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Map.cpp(128,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Monster.cpp
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(69,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(119,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(121,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(186,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(187,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(59,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(60,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(126,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(127,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Spawner.cpp
+D:\проекты вижуалка\KursachN\KursachN\Spawner.cpp(32,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Spawner.cpp(32,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Spawner.cpp(32,135): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Spawner.cpp(32,111): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  147 of 368 functions (39.9%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KursachN.vcxproj -> D:\проекты вижуалка\KursachN\Release\KursachN.exe

@@ -1,0 +1,32 @@
+﻿  Monster.cpp
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(69,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(119,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(121,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(186,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Monster.cpp(187,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(59,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(60,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(126,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\проекты вижуалка\KursachN\KursachN\Player.cpp(127,40): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\проекты вижуалка\KursachN\Debug\KursachN.exe при последней инкрементной компоновке; выполняется полная компоновка
+  KursachN.vcxproj -> D:\проекты вижуалка\KursachN\Debug\KursachN.exe
